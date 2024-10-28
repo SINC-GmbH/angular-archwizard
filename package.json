@@ -1,6 +1,6 @@
 {
   "name": "@sinc/angular-archwizard",
-  "version": "8.0.0-develop",
+  "version": "8.0.1-develop",
   "license": "MIT",
   "description": "An Angular 9+ module containing a wizard component and its supporting components and directives",
   "homepage": "https://github.com/madoar/angular-archwizard",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/madoar/angular-archwizard"
+    "url": "git+https://github.com/madoar/angular-archwizard.git"
   },
   "bugs": {
     "url": "https://github.com/madoar/angular-archwizard/issues"
